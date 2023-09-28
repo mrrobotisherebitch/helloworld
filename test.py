@@ -1,5 +1,5 @@
 print("hello world")
 
-abc = 24
+abc = 4
 for i in range(10):
     print(i)
